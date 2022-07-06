@@ -19,7 +19,7 @@ body {
 }
 
 .section1 {
-    background-image: url(/img/children.png);
+    background-image: url(img/children.png);
     background-repeat: no-repeat;
     background-size: 100%;
     text-align: center;
