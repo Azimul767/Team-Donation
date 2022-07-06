@@ -1,0 +1,295 @@
+body {
+    font-family: 'Poppins', sans-serif;
+ margin: 0;
+ padding: 0;
+}
+
+.section1 h1 {
+    font-size: 40px;
+    font-weight:900;
+    color: white;
+    margin-top: 250px;
+   
+}
+.section1 p{
+    font-weight: 500;
+    color: white;
+    margin-bottom: 40px;
+
+}
+
+.section1 {
+    background-image: url(/img/children.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 150px 0;
+    margin-bottom: 50px;
+   
+    
+}
+
+.section1 a {
+    margin-top: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+
+ 
+}
+
+.section1 a:hover {
+  
+
+    background-image: linear-gradient(45deg, rgb(255, 113, 57), rgb(202, 46, 19));
+}
+
+.section2 {
+    padding: 100px 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.parent {
+    display: flex;
+    margin: 10px 300px;
+    margin-bottom: 20px;
+}
+
+.child {
+    padding: 40px;
+    background-color: rgba(226, 226, 226, 0.531);
+    margin: 20px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.parent h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.tk {
+    border: 3px solid rgb(255, 0, 38);
+    background-color:  rgba(255, 206, 213, 0.605);
+    margin: 20px;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 40px;
+    color: red;
+}
+
+
+
+.Otheramount{
+
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+    border-bottom: 2px solid rgb(225, 225, 225);
+}
+
+.section2 a {
+    margin-top: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+  transition-duration: 2s;
+}
+
+.section2 a:hover {
+
+    background-image: linear-gradient(45deg, rgb(255, 113, 57), rgb(202, 46, 19));
+}
+
+.section3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+
+}
+
+.section3 h1 {
+    font-weight: 800;
+    font-size: 50px;
+}
+
+.section3 p {
+    font-weight:normal;
+    font-size: 20px;
+}
+.section4 h2 {
+    font-weight: 900;
+   
+}
+
+.section4 {
+    padding-bottom: 50px;
+}
+.parent-div {
+    display:flex;
+    margin: 10px 120px;
+} 
+
+.child-div {
+    
+  
+    height: 300px;
+    padding: 30px 30px;
+    background-color: aliceblue;
+    margin: 20px;
+
+}
+.child-div2 {
+    
+  
+    height: 300px;
+    padding: 30px 30px;
+    background-color: rgba(255, 228, 196, 0.542);
+    margin: 20px;
+
+}
+
+.child-div3 {
+    
+  
+    height: 300px;
+    padding: 30px 30px;
+    background-color: rgba(249, 205, 249, 0.553);
+    margin: 20px;
+
+}
+
+
+.section5 {
+    padding-bottom: 100px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(246, 246, 246);
+    padding-top: 40px;
+    margin-bottom: 100px;
+    
+}
+
+.our-result {
+    display: flex;
+    padding: 30px 40px;
+}
+
+.our-result img {
+    width: 60%;
+    border-radius: 9px;
+}
+
+.our-result-half2 {
+    text-align: left;
+    
+}
+
+.heading {
+    padding-bottom: 20px;
+    margin-top: 60px;
+}
+
+.our-result-half2 a {
+ 
+    text-decoration: none;
+   background-image:linear-gradient(45deg,#18b760,#e9bf3d);
+   padding: 15px 20px;
+   border-radius: 5px;
+   font-weight: 600;
+   color: white;
+}
+
+.how-help {
+     text-align: center;
+     font-family: 'Roboto', sans-serif;
+}
+
+.how-help h1 {
+    color: brown;
+}
+
+.help-parent-div {
+    display:flex;
+    margin: 10px 120px;
+} 
+
+.help-child-div {
+    height: 400px;
+    padding: 30px 30px;
+    background-color: rgb(245, 245, 245);
+    margin: 20px;
+}
+
+.help-child-div p {
+    margin-bottom: 30px;
+}
+
+.help-parent-div a {
+ 
+    text-decoration: none;
+   background-image:linear-gradient(45deg,#18b760,#e9bf3d);
+   padding: 15px 20px;
+   border-radius: 5px;
+   font-weight: 600;
+   color: white;
+  
+}
+
+.help-parent-div a:hover {
+    background-image:linear-gradient(45deg,#e9bf3d,#18b760);
+    transition-delay: 2s;
+}
+
+.sectionlast {
+    text-align: center;
+    margin: 100px 0;
+}
+.lastdiv {
+    background-image: linear-gradient(45deg, rgb(153, 0, 255), rgb(255, 0, 85));
+    color: white;
+    padding-top: 20px;
+    height: 130px;
+    width: 70%;
+    border-radius: 10px;
+    margin: 40px 250px;
+    text-align: center;
+
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+#email {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 3px 0;
+    text-align: center;
+    font-size: 18px;
+    border-radius: 10px;
+    border: none;
+}
+
+.submit {
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 15px 37px;
+    border-radius: 10px;
+    border: none;
+}
+
+footer{
+    background-color: black;
+    padding: 20px 0px;
+}
